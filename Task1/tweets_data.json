@@ -1,1 +1,80 @@
-{"data": [{"edit_history_tweet_ids": ["1600439088560996353"], "id": "1600439088560996353", "text": "Oh, you know, keeping busy \u2026 https://t.co/jgGYovK6jL"}, {"edit_history_tweet_ids": ["1600353201626443776"], "id": "1600353201626443776", "text": "@ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics \u2013 many humans have done so. I\u2019m not seeing that potential yet."}, {"edit_history_tweet_ids": ["1600320667668582400"], "id": "1600320667668582400", "text": "@charliekirk11 Small world \u2026"}, {"edit_history_tweet_ids": ["1600319218854940673"], "id": "1600319218854940673", "text": "Oh, what a tangled web they weave, when first they practice to \u2026"}, {"edit_history_tweet_ids": ["1600274469104234497"], "id": "1600274469104234497", "text": "@EricRWeinstein @bariweiss @mtaibbi Only discovered this on Sunday"}, {"edit_history_tweet_ids": ["1600272617759731712"], "id": "1600272617759731712", "text": "@TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are safe from fentanyl. Where are your priorities @LondonBreed!?\n\nhttps://t.co/M7QJWP7u0N"}, {"edit_history_tweet_ids": ["1600240461070749696"], "id": "1600240461070749696", "text": "@samgabnz @mtaibbi Yes. His explanation was \u2026unconvincing."}, {"edit_history_tweet_ids": ["1600237095364096000"], "id": "1600237095364096000", "text": "@mtaibbi In light of concerns about Baker\u2019s possible role in suppression of information important to the public dialogue, he was exited from Twitter today"}, {"edit_history_tweet_ids": ["1600200000763756544"], "id": "1600200000763756544", "text": "@stillgray Most of Earth: \u201cThe MSM is biased.\u201d\nWikipedia: \u201cCite MSM source to confirm this claim.\u201d \ud83e\udd23\ud83e\udd23\n\nWikipedia has a non-trivial left-wing bias.\n\n@jimmy_wales, what are your thoughts?"}, {"edit_history_tweet_ids": ["1600080018951921664"], "id": "1600080018951921664", "text": "@karpathy The ratio of total digital to total biological compute is the key metric to watch \u2013 it is rising incredibly fast"}], "meta": {"next_token": "7140dibdnow9c7btw450bfh8wgipzon6wo8s6f08xx4j8", "result_count": 10, "newest_id": "1600439088560996353", "oldest_id": "1600080018951921664"}}
+{
+  "data": [
+    {
+      "edit_history_tweet_ids": [
+        "1600439088560996353"
+      ],
+      "id": "1600439088560996353",
+      "text": "Oh, you know, keeping busy \u2026 https://t.co/jgGYovK6jL"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600353201626443776"
+      ],
+      "id": "1600353201626443776",
+      "text": "@ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics \u2013 many humans have done so. I\u2019m not seeing that potential yet."
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600320667668582400"
+      ],
+      "id": "1600320667668582400",
+      "text": "@charliekirk11 Small world \u2026"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600319218854940673"
+      ],
+      "id": "1600319218854940673",
+      "text": "Oh, what a tangled web they weave, when first they practice to \u2026"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600274469104234497"
+      ],
+      "id": "1600274469104234497",
+      "text": "@EricRWeinstein @bariweiss @mtaibbi Only discovered this on Sunday"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600272617759731712"
+      ],
+      "id": "1600272617759731712",
+      "text": "@TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are safe from fentanyl. Where are your priorities @LondonBreed!?\n\nhttps://t.co/M7QJWP7u0N"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600240461070749696"
+      ],
+      "id": "1600240461070749696",
+      "text": "@samgabnz @mtaibbi Yes. His explanation was \u2026unconvincing."
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600237095364096000"
+      ],
+      "id": "1600237095364096000",
+      "text": "@mtaibbi In light of concerns about Baker\u2019s possible role in suppression of information important to the public dialogue, he was exited from Twitter today"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600200000763756544"
+      ],
+      "id": "1600200000763756544",
+      "text": "@stillgray Most of Earth: \u201cThe MSM is biased.\u201d\nWikipedia: \u201cCite MSM source to confirm this claim.\u201d \ud83e\udd23\ud83e\udd23\n\nWikipedia has a non-trivial left-wing bias.\n\n@jimmy_wales, what are your thoughts?"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1600080018951921664"
+      ],
+      "id": "1600080018951921664",
+      "text": "@karpathy The ratio of total digital to total biological compute is the key metric to watch \u2013 it is rising incredibly fast"
+    }
+  ],
+  "meta": {
+    "result_count": 10,
+    "newest_id": "1600439088560996353",
+    "oldest_id": "1600080018951921664",
+    "next_token": "7140dibdnow9c7btw450bfh8wgipzon6wo8s6f08xx4j8"
+  }
+}
